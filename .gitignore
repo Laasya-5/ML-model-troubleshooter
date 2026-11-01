@@ -1,0 +1,6 @@
+backend/data/
+backend/uploads/
+backend/venv/
+__pycache__/
+node_modules/
+dist/
